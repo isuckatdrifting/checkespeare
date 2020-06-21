@@ -1,6 +1,20 @@
 # checkespeare
 Literature Collection in F-1 Check University
 
+2019 witnessed extremely long administrative processing US cases of thousands of Chinese students. 2020 witnessed the outbreak of COVID-19 worldwide, and the turning point in their life under the epidemic, the suspended visa service and their final deferral of enrollment soon to be overdue. This page is to memorize the panic, the bafflement, the despair, the hesitation, and the time.
+
+****
+*We are not makers of history. We are made by history.*
+
+*Hell is empty and all the devils are here.*
+
+*<p align="right">― William Shakespeare</p>*
+
+### Friendly links
+[Check Reporter](https://www.checkee.info/) | [Visachecked](https://www.visachecked.com/) | [预约美签，防止失学](https://tuixue.online/visa/)
+
+Feel free to create issues and pull requests.
+
 ### 春
 
 by [GeraltShi](https://github.com/GeraltShi) 2020/3/12
