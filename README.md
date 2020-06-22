@@ -1,7 +1,7 @@
 # checkespeare
 Literature Collection in F-1 Check University
 
-2019 witnessed extremely long administrative processing US cases of thousands of Chinese students. 2020 witnessed the outbreak of COVID-19 worldwide, and the turning point in their life under the epidemic, the suspended visa service and their final deferral of enrollment soon to be overdue. This page is to memorize the panic, the bafflement, the despair, the hesitation, and the time.
+2019 witnessed thousands of Chinese students' extremely long administrative processing of US visa cases. 2020 witnessed the outbreak of COVID-19 worldwide, and the turning point in their life under the epidemic, the suspended visa service and their final deferral of enrollment soon to be overdue. This page is to memorize the panic, the bafflement, the despair, the hesitation, and the time.
 
 ****
 *We are not makers of history. We are made by history.*
